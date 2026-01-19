@@ -2,7 +2,7 @@
 
 ### Маслов Александр Владимирович, QA Engineer
 
-# ![Фото][c:\Users\alexm\Downloads\812978683285448645.jpg]
+# ![Фото][img/photo.jpg]
 
 ## Мои проекты:
 * [Курсовая работа](https://docs.google.com/spreadsheets/d/1BfI8fTOA4wXnqHgYWXissG7VJ44DWjQkPRU-H02KMHg/edit#gid=0) - Ручное тестирование сайта интернет-магазина Henderson
